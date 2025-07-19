@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-06-04 at 04 34 40_99320a06](https://github.com/user-attachments/assets/089984bb-5bd5-4efe-bf40-4c4b0ad1f548)# Battle-Royale-16-Card-Game (Human vs A.I.)
+# Battle-Royale-16-Card-Game (Human vs A.I.)
 
 
 ## Game Setup and Rules:
